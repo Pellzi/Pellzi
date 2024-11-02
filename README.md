@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on developing programs. 
 - 📫 How to reach me? Just use my Email Adress.
 - 😄 Pronouns: 
-- ⚡ Fun fact: There is no progress, if you cahin the inventor.
+- ⚡ Fun fact: There is no progress, if you chain the inventor.
 
 <!---
 Pellzi/Pellzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
