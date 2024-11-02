@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pellzi
 - 👀 I’m interested in testing programs.
-- 🌱 I’m currently learning using Git Hub. 
+- 🌱 I’m currently learning using Git Hub. Everything is New, and i don´t know, that to do.
 - 💞️ I’m looking to collaborate on developing programs. 
 - 📫 How to reach me? Just use my Email Adress.
 - 😄 Pronouns: 
