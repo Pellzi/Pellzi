@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Pellzi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning using Git Hub 
-- 💞️ I’m looking to collaborate on developing programs 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in testing programs.
+- 🌱 I’m currently learning using Git Hub. 
+- 💞️ I’m looking to collaborate on developing programs. 
+- 📫 How to reach me? Just use my Email Adress.
+- 😄 Pronouns: 
+- ⚡ Fun fact: There is no progress, if you cahin the inventor.
 
 <!---
 Pellzi/Pellzi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
